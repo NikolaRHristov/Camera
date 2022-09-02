@@ -1,15 +1,15 @@
 {
-	"name": "@lightrix/camera-tools",
+	"name": "@nikolarhristov/camera-tools",
 	"version": "0.0.1",
 	"type": "module",
 	"description": "Camera tools using Tauri browser.",
 	"repository": {
 		"type": "git",
-		"url": "https://git@github.com/lightrix/camera-tools.git"
+		"url": "https://git@github.com/NikolaRHristov/camera-tools.git"
 	},
-	"homepage": "https://github.com/lightrix/camera-tools#readme",
+	"homepage": "https://github.com/NikolaRHristov/camera-tools#readme",
 	"bugs": {
-		"url": "https://github.com/lightrix/camera-tools/issues"
+		"url": "https://github.com/NikolaRHristov/camera-tools/issues"
 	},
 	"author": "Nikola Hristov <nikola@lightrix.dev>",
 	"license": "MIT",
