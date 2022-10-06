@@ -1,17 +1,17 @@
 {
-	"name": "@nikolarhristov/camera-tools",
+	"name": "@nikolaxhristov/camera-tools",
 	"version": "0.0.1",
 	"type": "module",
 	"description": "Camera tools using Tauri browser.",
 	"repository": {
 		"type": "git",
-		"url": "https://git@github.com/nikolarhristov/camera-tools.git"
+		"url": "https://git@github.com/nikolaxhristov/camera-tools.git"
 	},
-	"homepage": "https://github.com/nikolarhristov/camera-tools#readme",
+	"homepage": "https://github.com/nikolaxhristov/camera-tools#readme",
 	"bugs": {
-		"url": "https://github.com/nikolarhristov/camera-tools/issues"
+		"url": "https://github.com/nikolaxhristov/camera-tools/issues"
 	},
-	"author": "Nikola Hristov <nikola@nikolahristov.tech>",
+	"author": "nikolaxhristov",
 	"license": "MIT",
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
